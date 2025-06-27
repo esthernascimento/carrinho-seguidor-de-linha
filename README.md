@@ -61,11 +61,11 @@ Este projeto é uma homenagem ao icônico carro **Pussycat** da personagem **Pen
 Este projeto é de código aberto e pode ser usado livremente para fins educacionais ou pessoais. Contribuições são bem-vindas!
 
 E ele foi realizado com a colaboração de:
-Esther Nascimento
-Gisele Nunes
-Gabriel Sampaio
-Kauã Amorim
-Hyago Inácio
-Gabriel Arruda
+- Esther Nascimento
+- Gisele Nunes
+- Gabriel Sampaio
+- Kauã Amorim
+- Hyago Inácio
+- Gabriel Arruda
 
 ---
